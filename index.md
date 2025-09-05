@@ -1,3 +1,16 @@
+# **Doppel-GIT's First CS193 Homework**
+
+# A few of my favorite things about CS193
+- Missing the first class on accident because I thought it wasn't on for that week due to the messages on Ed 🔥
+- I don't know much about the terminal, except that it's a. Mostly suboptimal way to do things? I look forward to being proven wrong.
+- Uh I dunno, the TA's seem alright. The room is a bit chaotic though; it irks me when people don't shut up.
+
+[Link]([url](https://store.steampowered.com/app/1671210/DELTARUNE/))
+
+'''
+#---------------------------------------------------------
+'''
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
